@@ -16,17 +16,23 @@ const Donation = () => {
   const back_ground = {
     backgroundColor: findDonate.background_color,
   }
+  const btn_back_ground = {
+    backgroundColor: findDonate.btn_background_color,
+  }
+
 
   return (
-    <div className="max-w-7xl m-auto">
-  
-        <div  style={back_ground} className="gap-4 rounded-md m-4">
-          <img className="w-full" src={findDonate.cover} alt="" />
-          <h2 className="card-title ">{findDonate.title}</h2>
-          <button className="btn btn-primary text-white ">{findDonate.price}</button>
-          <p>{findDonate.description}</p>
+    <div className="max-w-7xl m-auto ">
+
+      <div className="gap-4 rounded-md m-4">
+        <img className="w-full" src={findDonate.cover} alt="" />
+        <button style={btn_back_ground} className="btn btn-primary text-white  relative">Donate {findDonate.price}</button>
+        <div className="mt-6 gap-4">
+          <h2 className="card-title text-black text-xl font-bold ">{findDonate.title}</h2>
+          <p className="mt-4">{findDonate.description}</p>
         </div>
       </div>
+    </div>
 
   );
 };

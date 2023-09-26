@@ -7,6 +7,7 @@ const Card = ({card}) => {
 
   const back_ground = {
     backgroundColor : background_color,
+    color : text_color,
   }
   const textColor = {
     color : text_color,
@@ -18,7 +19,7 @@ const Card = ({card}) => {
   <figure><img className="w-full" src={cover} alt="Shoes" /></figure>
   <div className="card-body">
   <div className="">
-  <a  style={back_ground} className="btn normal-case text-xl">{category}</a>
+  <Link style={back_ground} className="rounded-sm p-1">{category}</Link>
  </div>
     <h2 style={textColor} className="card-title ">{title}</h2> 
   </div>
