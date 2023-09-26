@@ -1,0 +1,179 @@
+[
+  {
+    "id": 1,
+    "title": "Education Resource 1",
+    "cover": "https://i.ibb.co/dc1M6j5/Education.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Education",
+    "description": "This is an educational resource.",
+    "price": "$19.99",
+    "text_color": "#FF444A",
+    "background_color": "#FF444A26"
+  },
+  {
+    "id": 2,
+    "title": "Clothing Item 2",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Clothing",
+    "description": "Fashionable clothing choice.",
+    "price": "$39.99",
+    "text_color": "#79C23F",
+    "background_color": "#79C23F26"
+  },
+  {
+    "id": 3,
+    "title": "Education Resource 3",
+    "cover": "https://i.ibb.co/dc1M6j5/Education.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Education",
+    "description": "Enhance your knowledge.",
+    "price": "$14.99",
+    "text_color": "#FF444A",
+    "background_color": "#FF444A26"
+  },
+  {
+    "id": 4,
+    "title": "Education Resource 4",
+    "cover": "https://i.ibb.co/dc1M6j5/Education.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Education",
+    "description": "Master new skills.",
+    "price": "$29.99",
+    "text_color": "#FF444A",
+    "background_color": "#FF444A26"
+  },
+  {
+    "id": 5,
+    "title": "Clothing Item 1",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Clothing",
+    "description": "A stylish clothing item.",
+    "price": "$49.99",
+    "text_color": "#79C23F",
+    "background_color": "#79C23F26"
+  },
+  {
+    "id": 6,
+    "title": "Education Resource 2",
+    "cover": "https://i.ibb.co/dc1M6j5/Education.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Education",
+    "description": "Learn with our online courses.",
+    "price": "$24.99",
+    "text_color": "#FF444A",
+    "background_color": "#FF444A26"
+  },
+
+  {
+    "id": 7,
+    "title": "Clothing Item 3",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Clothing",
+    "description": "Upgrade your wardrobe.",
+    "price": "$59.99",
+    "text_color": "#79C23F",
+    "background_color": "#79C23F26"
+  },
+  {
+    "id": 8,
+    "title": "Clothing Item 4",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Clothing",
+    "description": "Stay fashionable.",
+    "price": "$44.99",
+    "text_color": "#79C23F",
+    "background_color": "#79C23F26"
+  },
+  {
+    "id": 9,
+    "title": "Food Item 1",
+    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Food",
+    "description": "Delicious food option.",
+    "price": "$9.99",
+    "text_color": "#F87147",
+    "background_color": "#F8714726"
+  },
+  {
+    "id": 10,
+    "title": "Food Item 2",
+    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Food",
+    "description": "Tasty and affordable.",
+    "price": "$7.99",
+    "text_color": "#F87147",
+    "background_color": "#F8714726"
+  },
+  {
+    "id": 11,
+    "title": "Food Item 3",
+    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Food",
+    "description": "Satisfy your cravings.",
+    "price": "$12.99",
+    "text_color": "#F87147",
+    "background_color": "#F8714726"
+  },
+  {
+    "id": 12,
+    "title": "Food Item 4",
+    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Food",
+    "description": "Explore culinary delights.",
+    "price": "$14.99",
+    "text_color": "#F87147",
+    "background_color": "#F8714726"
+  },
+  {
+    "id": 13,
+    "title": "Health Resource 1",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Health",
+    "description": "Stay healthy and fit.",
+    "price": "Free",
+    "text_color": "#0052FF",
+    "background_color": "#0052FF26"
+  },
+  {
+    "id": 14,
+    "title": "Health Resource 2",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Health",
+    "description": "Wellness tips and advice.",
+    "price": "Free",
+    "text_color": "#0052FF",
+    "background_color": "#0052FF26"
+  },
+  {
+    "id": 15,
+    "title": "Health Resource 3",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Health",
+    "description": "Mental health matters.",
+    "price": "Free",
+    "text_color": "#0052FF",
+    "background_color": "#0052FF26"
+  },
+  {
+    "id": 16,
+    "title": "Health Resource 4",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Health",
+    "description": "Healthy living insights.",
+    "price": "Free",
+    "text_color": "#0052FF",
+    "background_color": "#0052FF26"
+  }
+]
