@@ -1,20 +1,18 @@
 import { useEffect } from "react";
 import { useLoaderData } from "react-router-dom";
-import { getStoredDonation } from "../../Utility/LocalStorage";
+import { getStoredDonation } from "../../Utility/storage";
+
 
 const Statistic = () => {
-  const allDonations = useLoaderData();
-  // console.log(allDonations);
-
-  useEffect(() => {
-    const storedDonationId = getStoredDonation();
-
-    if (allDonations.length > 0) {
-      const giveDonation = allDonations.filter(donation => storedDonationId.includes(donation.id));
-      console.log(giveDonation);
+  const cards = useLoaderData()
+  // console.log(cards)
+  useEffect(()=>{
+    const storedids = getStoredDonation();
+    if(cards.length > 0){
+      const donationCards = cards.filter(card=>storedids.includes(card.id))
+      console.log(cards,storedids, donationCards)
     }
-  }, [allDonations]);
-
+  },[])
   return (
     <div>
       <h1>This is the statistic part. This part will be manipulate as soon as possible.</h1>

@@ -1,6 +1,8 @@
 
 import { Link, useLoaderData, useParams } from "react-router-dom";
-import { saveDonatin } from "../../../Utility/LocalStorage";
+
+import { ToastContainer, toast } from 'react-toastify';
+import 'react-toastify/dist/ReactToastify.css';
 
 
 
@@ -23,10 +25,8 @@ const Donation = () => {
   }
  
   const handleDonate = ()=>{
-
-    saveDonatin(id);
-
-    // console.log('added done')
+    toast('Donation Done')
+    saveCard(id);
   }
 
   return (
@@ -41,6 +41,7 @@ const Donation = () => {
           <p className="mt-4">{findDonate.description}</p>
         </div>
       </div>
+      <ToastContainer />
     </div>
 
   );
