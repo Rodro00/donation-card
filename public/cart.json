@@ -6,11 +6,12 @@
     "category_background_color": "#D8D8D8",
     "category": "Education",
     "description": "Discover a valuable educational resource that can expand your knowledge horizons. This resource offers insightful content to help you learn and grow. With a price of just $19.99, it's an affordable way to invest in your education. The vibrant design with a background color of #FF444A26 and a matching button color of #FF444A makes it visually engaging. Take a step towards lifelong learning and personal development with Education Resource 1.",
-    "price": "$19.99",
+    "price": "$69.99",
     "text_color": "#FF444A",
     "background_color": "#FF444A26",
     "btn_background_color": "#FF444A"
   },
+
   {
     "id": 2,
     "title": "Clothing Item 2",
@@ -23,29 +24,30 @@
     "background_color": "#79C23F26",
     "btn_background_color": "#FF444A"
   },
+ 
   {
     "id": 3,
-    "title": "Education Resource 3",
+    "title": "Education Resource 4",
     "cover": "https://i.ibb.co/dc1M6j5/Education.png",
     "category_background_color": "#D8D8D8",
     "category": "Education",
-    "description": "Enhance your knowledge and skills with Education Resource 3. Priced affordably at $14.99, it's a valuable investment in your personal growth. The design features a background color of #FF444A26 and a matching button color of #FF444A, ensuring a visually appealing experience. With the description, 'Enhance your knowledge,' this resource promises valuable insights and educational content. Take a step towards self-improvement with Education Resource 3.",
-    "price": "$14.99",
+    "description": "Master new skills and expand your expertise with Education Resource 4. Priced at $29.99, it offers valuable knowledge and insights. The visually engaging design features a background color of #FF444A26 and a matching button color of #FF444A. With the description, 'Master new skills,' this resource is your gateway to personal and professional growth. Invest in your future with Education Resource 4.",
+    "price": "$59.99",
     "text_color": "#FF444A",
     "background_color": "#FF444A26",
     "btn_background_color": "#FF444A"
   },
   {
     "id": 4,
-    "title": "Education Resource 4",
-    "cover": "https://i.ibb.co/dc1M6j5/Education.png",
+    "title": "Health Resource 1",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
     "category_background_color": "#D8D8D8",
-    "category": "Education",
-    "description": "Master new skills and expand your expertise with Education Resource 4. Priced at $29.99, it offers valuable knowledge and insights. The visually engaging design features a background color of #FF444A26 and a matching button color of #FF444A. With the description, 'Master new skills,' this resource is your gateway to personal and professional growth. Invest in your future with Education Resource 4.",
-    "price": "$29.99",
-    "text_color": "#FF444A",
-    "background_color": "#FF444A26",
-    "btn_background_color": "#FF444A"
+    "category": "Health",
+    "description": "Prioritize your well-being with Health Resource 1, a valuable guide to staying healthy and fit. Best of all, it's free! The design boasts a background color of #0052FF26 and a matching button color of #0052FF, creating a visually engaging experience. With the description, 'Stay healthy and fit,' it offers essential health insights and tips. Take the first step toward a healthier you with Health Resource 1.",
+    "price": "$63.99",
+    "text_color": "#0052FF",
+    "background_color": "#0052FF26",
+    "btn_background_color": "#0052FF"
   },
   {
     "id": 5,
@@ -61,18 +63,30 @@
   },
   {
     "id": 6,
+    "title": "Food Item 4",
+    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Food",
+    "description": "Embark on a culinary adventure with Food Item 4, offering a delightful experience at $14.99. The design features a background color of #F8714726 and a matching button color of #F87147, creating an appealing look. With the description, 'Explore culinary delights,' it promises a gastronomic journey filled with flavors. Dive into food exploration with Food Item 4.",
+    "price": "$78.99",
+    "text_color": "#F87147",
+    "background_color": "#F8714726",
+    "btn_background_color": "#F87147"
+  },
+  {
+    "id": 7,
     "title": "Education Resource 2",
     "cover": "https://i.ibb.co/dc1M6j5/Education.png",
     "category_background_color": "#D8D8D8",
     "category": "Education",
     "description": "Embark on a journey of learning with Education Resource 2, offering online courses at just $24.99. The design boasts a background color of #FF444A26 and a matching button color of #79C23F, creating an engaging visual experience. With the description, 'Learn with our online courses,' it promises valuable knowledge and skills. Invest in your personal growth and education with Education Resource 2.",
-    "price": "$24.99",
+    "price": "$64.99",
     "text_color": "#FF444A",
     "background_color": "#FF444A26",
     "btn_background_color": "#79C23F"
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Clothing Item 3",
     "cover": "https://i.ibb.co/s1m9kW5/Health.png",
     "category_background_color": "#D8D8D8",
@@ -84,7 +98,19 @@
     "btn_background_color": "#79C23F"
   },
   {
-    "id": 8,
+    "id": 9,
+    "title": "Health Resource 2",
+    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Health",
+    "description": "Discover wellness tips and expert advice with Health Resource 2, available for free! The design features a background color of #0052FF26 and a matching button color of #0052FF, ensuring a visually appealing experience. With the description, 'Wellness tips and advice,' it offers valuable insights for a healthier lifestyle. Prioritize your well-being with Health Resource 2.",
+    "price":"$25.99",
+    "text_color": "#0052FF",
+    "background_color": "#0052FF26",
+    "btn_background_color": "#0052FF"
+  },
+  {
+    "id": 10,
     "title": "Clothing Item 4",
     "cover": "https://i.ibb.co/s1m9kW5/Health.png",
     "category_background_color": "#D8D8D8",
@@ -96,77 +122,57 @@
     "btn_background_color": "#79C23F"
   },
   {
-    "id": 9,
+    "id": 11,
+    "title": "Education Resource 3",
+    "cover": "https://i.ibb.co/dc1M6j5/Education.png",
+    "category_background_color": "#D8D8D8",
+    "category": "Education",
+    "description": "Enhance your knowledge and skills with Education Resource 3. Priced affordably at $14.99, it's a valuable investment in your personal growth. The design features a background color of #FF444A26 and a matching button color of #FF444A, ensuring a visually appealing experience. With the description, 'Enhance your knowledge,' this resource promises valuable insights and educational content. Take a step towards self-improvement with Education Resource 3.",
+    "price": "$84.99",
+    "text_color": "#FF444A",
+    "background_color": "#FF444A26",
+    "btn_background_color": "#FF444A"
+  },
+  {
+    "id": 12,
     "title": "Food Item 1",
     "cover": "https://i.ibb.co/5Bds9s5/Food.png",
     "category_background_color": "#D8D8D8",
     "category": "Food",
     "description": "Indulge in a culinary delight with Food Item 1, a delicious option priced at just $9.99. The design boasts a background color of #F8714726 and a matching button color of #F87147, creating an appetizing visual experience. With a description that reads, 'Delicious food option,' it promises a delightful gastronomic journey. Satisfy your taste buds with Food Item 1.",
-    "price": "$9.99",
-    "text_color": "#F87147",
-    "background_color": "#F8714726",
-    "btn_background_color": "#F87147"
-  },
-  {
-    "id": 10,
-    "title": "Food Item 2",
-    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
-    "category_background_color": "#D8D8D8",
-    "category": "Food",
-    "description": "Treat yourself to a mouthwatering experience with Food Item 2, an affordable delight at $7.99. The design features a background color of #F8714726 and a matching button color of #F87147, creating a tempting visual appeal. With a description that reads, 'Tasty and affordable,' it's the perfect choice for food enthusiasts. Explore flavors with Food Item 2.",
-    "price": "$7.99",
-    "text_color": "#F87147",
-    "background_color": "#F8714726",
-    "btn_background_color": "#F87147"
-  },
-  {
-    "id": 11,
-    "title": "Food Item 3",
-    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
-    "category_background_color": "#D8D8D8",
-    "category": "Food",
-    "description": "Satisfy your culinary cravings with Food Item 3, a delectable option priced at $12.99. The design boasts a background color of #F8714726 and a matching button color of #F87147, creating an enticing visual experience. With a description that reads, 'Satisfy your cravings,' it promises a delightful gastronomic journey. Explore flavors with Food Item 3.",
-    "price": "$12.99",
-    "text_color": "#F87147",
-    "background_color": "#F8714726",
-    "btn_background_color": "#F87147"
-  },
-  {
-    "id": 12,
-    "title": "Food Item 4",
-    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
-    "category_background_color": "#D8D8D8",
-    "category": "Food",
-    "description": "Embark on a culinary adventure with Food Item 4, offering a delightful experience at $14.99. The design features a background color of #F8714726 and a matching button color of #F87147, creating an appealing look. With the description, 'Explore culinary delights,' it promises a gastronomic journey filled with flavors. Dive into food exploration with Food Item 4.",
-    "price": "$14.99",
+    "price": "$90.99",
     "text_color": "#F87147",
     "background_color": "#F8714726",
     "btn_background_color": "#F87147"
   },
   {
     "id": 13,
-    "title": "Health Resource 1",
+    "title": "Health Resource 4",
     "cover": "https://i.ibb.co/s1m9kW5/Health.png",
     "category_background_color": "#D8D8D8",
     "category": "Health",
-    "description": "Prioritize your well-being with Health Resource 1, a valuable guide to staying healthy and fit. Best of all, it's free! The design boasts a background color of #0052FF26 and a matching button color of #0052FF, creating a visually engaging experience. With the description, 'Stay healthy and fit,' it offers essential health insights and tips. Take the first step toward a healthier you with Health Resource 1.",
-    "price": "$14.99",
+    "description": "Gain valuable insights into healthy living with Health Resource 4, available for free! The design features a background color of #0052FF26 and a matching button color of #0052FF, creating an engaging visual experience. With the description, 'Healthy living insights,' it offers tips and guidance for a healthier lifestyle. Start your journey toward better health with Health Resource 4.",
+    "price":"$80.99",
     "text_color": "#0052FF",
     "background_color": "#0052FF26",
     "btn_background_color": "#0052FF"
   },
+ 
   {
     "id": 14,
-    "title": "Health Resource 2",
-    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "title": "Food Item 3",
+    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
     "category_background_color": "#D8D8D8",
-    "category": "Health",
-    "description": "Discover wellness tips and expert advice with Health Resource 2, available for free! The design features a background color of #0052FF26 and a matching button color of #0052FF, ensuring a visually appealing experience. With the description, 'Wellness tips and advice,' it offers valuable insights for a healthier lifestyle. Prioritize your well-being with Health Resource 2.",
-    "price":"$14.99",
-    "text_color": "#0052FF",
-    "background_color": "#0052FF26",
-    "btn_background_color": "#0052FF"
+    "category": "Food",
+    "description": "Satisfy your culinary cravings with Food Item 3, a delectable option priced at $12.99. The design boasts a background color of #F8714726 and a matching button color of #F87147, creating an enticing visual experience. With a description that reads, 'Satisfy your cravings,' it promises a delightful gastronomic journey. Explore flavors with Food Item 3.",
+    "price": "$45.99",
+    "text_color": "#F87147",
+    "background_color": "#F8714726",
+    "btn_background_color": "#F87147"
   },
+
+  
+
   {
     "id": 15,
     "title": "Health Resource 3",
@@ -174,21 +180,22 @@
     "category_background_color": "#D8D8D8",
     "category": "Health",
     "description": "Focus on mental health and well-being with Health Resource 3, available for free! The design boasts a background color of #0052FF26 and a matching button color of #0052FF, creating a visually engaging look. With the description, 'Mental health matters,' it offers essential insights to support your mental wellness journey. Prioritize your mental health with Health Resource 3.",
-    "price": "$14.99",
+    "price": "$45.99",
     "text_color": "#0052FF",
     "background_color": "#0052FF26",
     "btn_background_color": "#0052FF"
   },
   {
     "id": 16,
-    "title": "Health Resource 4",
-    "cover": "https://i.ibb.co/s1m9kW5/Health.png",
+    "title": "Food Item 2",
+    "cover": "https://i.ibb.co/5Bds9s5/Food.png",
     "category_background_color": "#D8D8D8",
-    "category": "Health",
-    "description": "Gain valuable insights into healthy living with Health Resource 4, available for free! The design features a background color of #0052FF26 and a matching button color of #0052FF, creating an engaging visual experience. With the description, 'Healthy living insights,' it offers tips and guidance for a healthier lifestyle. Start your journey toward better health with Health Resource 4.",
-    "price":"$14.99",
-    "text_color": "#0052FF",
-    "background_color": "#0052FF26",
-    "btn_background_color": "#0052FF"
+    "category": "Food",
+    "description": "Treat yourself to a mouthwatering experience with Food Item 2, an affordable delight at $7.99. The design features a background color of #F8714726 and a matching button color of #F87147, creating a tempting visual appeal. With a description that reads, 'Tasty and affordable,' it's the perfect choice for food enthusiasts. Explore flavors with Food Item 2.",
+    "price": "$71.99",
+    "text_color": "#F87147",
+    "background_color": "#F8714726",
+    "btn_background_color": "#F87147"
   }
+ 
 ]
